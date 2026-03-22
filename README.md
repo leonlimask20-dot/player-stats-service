@@ -1,5 +1,5 @@
 # Player Stats Service
-
+![CI](https://github.com/leonlimask20-dot/player-stats-service/actions/workflows/ci.yml/badge.svg)
 Microsserviço em Quarkus para sincronização e consulta de dados de streamers de poker via Twitch API. Complementa o [PokerStream](https://www.pokerstream.pro) com um backend de dados persistente.
 
 ---
