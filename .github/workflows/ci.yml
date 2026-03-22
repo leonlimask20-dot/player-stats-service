@@ -17,4 +17,4 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: Executar testes
-        run: mvn test -B
+        run: mvn test -B -Dquarkus.test.profile=test
